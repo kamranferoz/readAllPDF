@@ -1,5 +1,5 @@
 # readAllPDF
-Read PDF files from the provided location and Summarise it.
+AI-based simple app to read PDF files from the provided location and Summarise it.
 
 Include config.py file with OPENAI_API_KEY variable for your OpenAI API key.
 
